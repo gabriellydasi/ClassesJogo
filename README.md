@@ -3,7 +3,7 @@
 ## Desafio 3: Escrevendo as classes de um jogo
 
 ### 💡 Sobre o projeto
-O objetivo do programa é criar uma classe genérica que represente um personagem de aventura, com propriedades de nome, idade e tipo (como guerreiro, mago, monge ou ninja). 
+O objetivo do programa é criar uma classe genérica que represente personagens de aventura, com propriedades de nome, idade e tipo (como guerreiro, mago, monge ou ninja). 
 A classe possui um método chamado **'atacar'**, que determina a forma de ataque de acordo com o tipo do herói, utilizando a estrutura de decisão *'if-else if'* para esse fim.
 
 **O que deve ser utilizado:**
